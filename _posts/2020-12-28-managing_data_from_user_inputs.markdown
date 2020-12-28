@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Managing Data From User Inputs"
-date:       2020-12-28 23:22:57 +0000
+date:       2020-12-28 18:22:58 -0500
 permalink:  managing_data_from_user_inputs
 ---
 
